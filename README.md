@@ -1,7 +1,8 @@
 # Welcome to GitHub
-
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
-
+Hello All!
+I work full time as a systems engineer for a medical device company. I started at my job two months after my ungraduate graduation ceremony occured in 2015.  Last year  I decided I wanted to pursue my master of science in Electrical Engineering at a part time bases, as I am already established in my career. 
+I am going to UIC part time and this is my second semester at the university. I attend two classes on Tuesday and Thursday. 
+I am very excited for what  this class will teach me.
 ## Repositories
 
 Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
