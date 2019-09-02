@@ -1,5 +1,7 @@
 # Welcome to GitHub
-
+Hello All!i work fulltime  at
+I work as a systems engineer for a medical device company.I am going to UIC part time , as I work fulltime. My undergrad is from NIU and is a bachelor of science in Electrical Engineering with an emphasis in biomedical. 
+I have worked at my current job for 3.5 years. 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
 ## Repositories
